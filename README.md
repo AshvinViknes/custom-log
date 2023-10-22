@@ -5,7 +5,6 @@ A straightforward Go (Golang) package for custom logging with additional informa
 ## Overview
 
 This package provides a custom logger with three main log levels: `Info`, `InfoURL`, and `Error`. It enhances traditional logging by including contextual information like timestamp, folder, file, and URL details. This can be particularly useful for debugging and understanding the context in which log messages are generated.
-Certainly! Here's the updated README to reflect the changes with the additional value in the `Info` and `Error` logs:
 
 ```markdown
 ## Installation
